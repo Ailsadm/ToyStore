@@ -312,6 +312,6 @@ label{
 .form-content{
     display:flex;
 }
-img:hover {
+.image-hover:hover {
     transform: scale(1.5);
   }
