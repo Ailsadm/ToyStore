@@ -312,3 +312,6 @@ label{
 .form-content{
     display:flex;
 }
+img:hover {
+    transform: scale(1.5);
+  }
